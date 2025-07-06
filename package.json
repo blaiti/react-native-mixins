@@ -1,7 +1,7 @@
 {
   "name": "react-native-mixins",
   "version": "0.1.0",
-  "description": "react-native-mixins",
+  "description": "A utility-first style mixin helper for clean and responsive UI design.",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
   "exports": {
